@@ -1,13 +1,13 @@
-[🔗 تصميمي على Canva](https://www.canva.com/design/DAGvti1dB3M/GrWtlRoMj_xQw_Rt6VYDCw/edit?utm_content=DAGvti1dB3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![تصميمي على Canva](https://www.canva.com/design/DAGvti1dB3M/GrWtlRoMj_xQw_Rt6VYDCw/view?utm_content=DAGvti1dB3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGvti1dB3M/GrWtlRoMj_xQw_Rt6VYDCw/edit?utm_content=DAGvti1dB3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-# 👋 مرحبًا! أنا [جمال]
+# 👋 مرحبًا! أنا [اسمك]
 أنا مطور ومصمم جرافيك، أعمل في المجال منذ سنة كاملة.  
-عمري [14] سنة، وأتعلّم حاليًا **[جرافيك ديزين بشكل احترافي]**.
+عمري [14] سنة، 
 
 ## 📌 ملخص عني:
 - 💻 خبرة سنة في مجال [برمجه المواقع]
 - 🎨 شغوف بالتصميم وتطوير المشاريع الإبداعية
-- 📚 متعلم حاليًا: [html,css,js]
+- 📚 متعلم حاليًا: [HTML , CSS , JS]
 
 ---
 
