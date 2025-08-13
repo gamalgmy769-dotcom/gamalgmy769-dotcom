@@ -1,16 +1,14 @@
-## Hi there 👋
+[🔗 تصميمي على Canva](https://www.canva.com/design/DAGvti1dB3M/GrWtlRoMj_xQw_Rt6VYDCw/edit?utm_content=DAGvti1dB3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<!--
-**gamalgmy769-dotcom/gamalgmy769-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 مرحبًا! أنا [جمال]
+أنا مطور ومصمم جرافيك، أعمل في المجال منذ سنة كاملة.  
+عمري [14] سنة، وأتعلّم حاليًا **[جرافيك ديزين بشكل احترافي]**.
 
-Here are some ideas to get you started:
+## 📌 ملخص عني:
+- 💻 خبرة سنة في مجال [برمجه المواقع]
+- 🎨 شغوف بالتصميم وتطوير المشاريع الإبداعية
+- 📚 متعلم حاليًا: [html,css,js]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> ✨ شكرًا لزيارتك ملفي، ولا تنسى مشاهدة أعمالي من الرابط بالأعلى!
