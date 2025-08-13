@@ -1,6 +1,5 @@
-[![تصميمي على Canva](https://www.canva.com/design/DAGvti1dB3M/GrWtlRoMj_xQw_Rt6VYDCw/view?utm_content=DAGvti1dB3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGvti1dB3M/GrWtlRoMj_xQw_Rt6VYDCw/edit?utm_content=DAGvti1dB3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-# 👋 مرحبًا! أنا [اسمك]
+# 👋 مرحبًا! أنا [[جمال]
 أنا مطور ومصمم جرافيك، أعمل في المجال منذ سنة كاملة.  
 عمري [14] سنة، 
 
